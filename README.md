@@ -3,11 +3,11 @@
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshdpalve&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshdpalve" /> </p>
 
-- 🔭 I’m currently working on **HealthCare App**
+- 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Fullstack development**
 
-- 💬 Ask me about **html, css, JavaScript, c, c++, java, python,etc**
+- 💬 Ask me about **html, css, JavaScript, MySQL,etc**
 
 - 📫 How to reach me **dnyyogesh@gmail.com**
 
@@ -26,8 +26,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dnyyogesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dnyyogesh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdpalve&show_icons=true&locale=en&layout=compact" alt="yogeshdpalve" /></p><br><br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdpalve&show_icons=true&locale=en&layout=compact" alt="yogeshdpalve" /></p><br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yogeshdpalve&show_icons=true&locale=en" alt="yogeshdpalve" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshdpalve&show_icons=true&locale=en" alt="yogeshdpalve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshdpalve&" alt="yogeshdpalve" /></p>
