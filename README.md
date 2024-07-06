@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a DevOps**
+ 
  
  🌱 I’m currently learning **Next.js, clouds, AWS**
 
