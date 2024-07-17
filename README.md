@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yogesh+Palve!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 <br/>
 
@@ -70,23 +70,15 @@
 
 
 
- 
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YogeshDPalve&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YogeshDPalve&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshDPalve&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdpalve&show_icons=true&locale=en&layout=compact" alt="yogeshdpalve" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshdpalve&show_icons=true&locale=en" alt="yogeshdpalve" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshdpalve&" alt="yogeshdpalve" /></p>
-<br/>
-<br/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )  [![](https://visitcount.itsvg.in/api?id=YogeshDPalve&icon=0&color=0)](https://visitcount.itsvg.in)   -->
 <div align="center">
 <a href='https://www.buymeacoffee.com/dnyyogesh' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
