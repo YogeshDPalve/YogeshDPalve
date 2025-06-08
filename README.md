@@ -9,8 +9,6 @@
 
 <div align="center"> 
  
-
- 
  🌱 I’m currently learning **Next.js, DevOps, AWS**  
 
 💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/YogeshDPalve/YogeshDPalve/issues)**
