@@ -9,7 +9,7 @@
      
 <div align="center"> 
  
- 🌱 I’m currently learning **Next.js, DevOps, AWS**  
+ 🌱 I’m currently learning **AI agentic automations, System Design, AWS**  
 
 💬 Ask me about **Node.js, React, Javascript... or anything [here](https://github.com/YogeshDPalve/YogeshDPalve/issues)**
 
